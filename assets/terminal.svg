@@ -1,81 +1,52 @@
-<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="agent terminal">
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="agent runtime">
   <defs>
-    <linearGradient id="tbar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#1a1f35"/>
-      <stop offset="1" stop-color="#10142a"/>
-    </linearGradient>
-    <clipPath id="tframe"><rect width="900" height="320" rx="14"/></clipPath>
+    <clipPath id="tframe"><rect width="900" height="300" rx="18"/></clipPath>
   </defs>
 
-  <g clip-path="url(#tframe)" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="15">
-    <rect width="900" height="320" fill="#0a0d1c"/>
-    <rect width="900" height="40" fill="url(#tbar)"/>
-    <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
-    <circle cx="46" cy="20" r="6" fill="#febc2e"/>
-    <circle cx="68" cy="20" r="6" fill="#28c840"/>
-    <text x="450" y="25" text-anchor="middle" fill="#64748b" font-size="13">iago@agent-runtime ~ orchestrator v2.6</text>
+  <g clip-path="url(#tframe)" font-family="'SF Mono', ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14">
+    <rect width="900" height="300" fill="#000000"/>
+    <rect width="900" height="44" fill="#1d1d1f"/>
+    <circle cx="26" cy="22" r="5.5" fill="#48484a"/>
+    <circle cx="48" cy="22" r="5.5" fill="#48484a"/>
+    <circle cx="70" cy="22" r="5.5" fill="#48484a"/>
+    <text x="450" y="27" text-anchor="middle" fill="#86868b" font-size="12" letter-spacing="-0.12">iago — agent-runtime — 80×24</text>
 
-    <!-- line 1 -->
-    <text x="28" y="72" fill="#94a3b8" opacity="0">
-      <tspan fill="#28c840">➜</tspan><tspan fill="#06b6d4"> ~ </tspan><tspan fill="#e2e8f0">deploy --agent solutions-architect --profile iago</tspan>
+    <text x="32" y="78" opacity="0">
+      <tspan fill="#2997ff">$</tspan><tspan fill="#f5f5f7"> deploy --agent solutions-architect --profile iago</tspan>
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.04;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 2 -->
-    <text x="28" y="100" fill="#64748b" opacity="0">
-      [bootstrap] carregando contexto humano... <tspan fill="#28c840">ok</tspan>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08;0.12;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="108" fill="#86868b" opacity="0">
+      contexto humano ............... <tspan fill="#f5f5f7">carregado</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.14;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 3 -->
-    <text x="28" y="128" fill="#64748b" opacity="0">
-      [certs]     AWS Cloud Practitioner ✓  AWS AI Practitioner ✓
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16;0.20;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="136" fill="#86868b" opacity="0">
+      certificações ................. <tspan fill="#f5f5f7">AWS Cloud Practitioner · AWS AI Practitioner</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18;0.22;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 4 -->
-    <text x="28" y="156" fill="#64748b" opacity="0">
-      [skills]    aws · genai · multi-agents · react · python · java
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.28;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="164" fill="#86868b" opacity="0">
+      stack ......................... <tspan fill="#f5f5f7">aws · genai · multi-agents · python · java · react</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.30;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 5 -->
-    <text x="28" y="184" fill="#64748b" opacity="0">
-      [history]   4 anos editando vídeo → olho clínico pra UX/visual <tspan fill="#f59e0b">★</tspan>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32;0.36;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="192" fill="#86868b" opacity="0">
+      background .................... <tspan fill="#f5f5f7">4 anos de edição de vídeo — precisão visual</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.38;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 6: progress bar -->
-    <text x="28" y="212" fill="#64748b" opacity="0">
-      [build]     compilando o futuro
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.44;1" dur="14s" repeatCount="indefinite"/>
-    </text>
-    <g opacity="0">
-      <rect x="290" y="200" width="320" height="12" rx="6" fill="#1e2747"/>
-      <rect x="290" y="200" height="12" rx="6" fill="#7c3aed">
-        <animate attributeName="width" values="0;0;320;320" keyTimes="0;0.44;0.62;1" dur="14s" repeatCount="indefinite"/>
-      </rect>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.44;1" dur="14s" repeatCount="indefinite"/>
-    </g>
-    <text x="624" y="212" fill="#28c840" opacity="0">100%
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60;0.64;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="228" opacity="0">
+      <tspan fill="#2997ff">✓</tspan><tspan fill="#f5f5f7"> agente online — construindo sistemas que pensam sozinhos</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.50;1" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <!-- line 7 -->
-    <text x="28" y="244" fill="#e2e8f0" opacity="0">
-      <tspan fill="#28c840">✔</tspan> agente online — <tspan fill="#06b6d4">construindo sistemas que pensam sozinhos</tspan>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66;0.70;1" dur="14s" repeatCount="indefinite"/>
+    <text x="32" y="264" opacity="0">
+      <tspan fill="#2997ff">$</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56;0.60;1" dur="14s" repeatCount="indefinite"/>
     </text>
-
-    <!-- line 8: prompt with cursor -->
-    <text x="28" y="284" opacity="0">
-      <tspan fill="#28c840">➜</tspan><tspan fill="#06b6d4"> ~ </tspan>
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74;0.78;1" dur="14s" repeatCount="indefinite"/>
-    </text>
-    <rect x="70" y="270" width="10" height="18" fill="#06b6d4" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.78;0.82;0.86;0.90;0.94;0.98;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="50" y="251" width="9" height="17" fill="#f5f5f7" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0" keyTimes="0;0.60;0.64;0.68;0.72;0.76;0.80;0.88;0.96;1" dur="14s" repeatCount="indefinite"/>
     </rect>
-
-    <rect x="1" y="1" width="898" height="318" rx="13" stroke="#1e2747" stroke-width="2" fill="none"/>
   </g>
 </svg>
