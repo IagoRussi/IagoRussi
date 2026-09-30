@@ -9,7 +9,7 @@ Engenheiro de software em Blumenau (SC). Trabalho de forma autônoma com agentes
 | | |
 |---|---|
 | **Hoje** | Agentes de IA, pipelines e automação, como autônomo |
-| **Formação** | Engenharia de Software, na Gran (em andamento) |
+| **Formação** | Engenharia de Software, 2025–2029 |
 | **Base** | Blumenau, Santa Catarina, Brasil |
 
 ## Artigos
