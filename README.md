@@ -25,16 +25,8 @@ Antes, fui editor de vídeo por quatro anos. Foi daí que veio o meu primeiro pr
 - **Copiloto de tela por voz**. Um modelo que vê o que está na minha tela e me responde em tempo real enquanto eu falo com ele.
 - **Consultoria e palestras sobre IA**. Participo de consultorias que ensinam empresas a usar IA, e dou palestras sobre como usar agentes melhor.
 
-## Atividade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IagoRussi/IagoRussi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IagoRussi/IagoRussi/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/IagoRussi/IagoRussi/output/github-snake.svg" width="100%" alt="contribuições" />
-</picture>
-
 ## Vamos conversar
 
 O primeiro contato é por e-mail: **[iagorussi@gmail.com](mailto:iagorussi@gmail.com)**. Me chama por lá que a gente conversa.
 
-<p align="center"><sub>No mesmo estilo do meu site, <a href="https://iago-russi.vercel.app">iago-russi.vercel.app</a>. A cobrinha se atualiza sozinha via GitHub Actions.</sub></p>
+<p align="center"><sub>No mesmo estilo do meu site, <a href="https://iago-russi.vercel.app">iago-russi.vercel.app</a>.</sub></p>
