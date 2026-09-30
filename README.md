@@ -12,7 +12,6 @@ Antes, fui editor de vídeo por quatro anos. Foi daí que veio o meu primeiro pr
 |---|---|
 | **Hoje** | Agentes de IA, pipelines e automação, como autônomo |
 | **Formação** | Análise e Desenvolvimento de Sistemas, 2025–2027 |
-| **Certificações** | AWS Cloud Practitioner · AWS AI Practitioner |
 | **Base** | Blumenau, Santa Catarina, Brasil |
 
 ## Artigos
@@ -25,16 +24,6 @@ Antes, fui editor de vídeo por quatro anos. Foi daí que veio o meu primeiro pr
 - **Fábrica de geração de vídeo**. Um pipeline autônomo de geração de vídeo com os modelos do Replicate, automatizando o processo inteiro para baixar o custo e melhorar o resultado.
 - **Copiloto de tela por voz**. Um modelo que vê o que está na minha tela e me responde em tempo real enquanto eu falo com ele.
 - **Consultoria e palestras sobre IA**. Participo de consultorias que ensinam empresas a usar IA, e dou palestras sobre como usar agentes melhor.
-
-## Stack
-
-| | |
-|---|---|
-| **Agentes e IA** | <img src="https://img.shields.io/badge/Claude%20Code-121210?style=flat-square&logo=claude&logoColor=d9f45a" alt="Claude Code" /> <img src="https://img.shields.io/badge/Anthropic-121210?style=flat-square&logo=anthropic&logoColor=d9f45a" alt="Anthropic" /> <img src="https://img.shields.io/badge/Kiro-121210?style=flat-square" alt="Kiro" /> <img src="https://img.shields.io/badge/AWS%20Bedrock-121210?style=flat-square" alt="AWS Bedrock" /> <img src="https://img.shields.io/badge/Gemini-121210?style=flat-square&logo=googlegemini&logoColor=d9f45a" alt="Gemini" /> |
-| **Vídeo e mídia** | <img src="https://img.shields.io/badge/FFmpeg-121210?style=flat-square&logo=ffmpeg&logoColor=d9f45a" alt="FFmpeg" /> <img src="https://img.shields.io/badge/HyperFrames-121210?style=flat-square" alt="HyperFrames" /> <img src="https://img.shields.io/badge/wav2vec2-121210?style=flat-square" alt="wav2vec2" /> <img src="https://img.shields.io/badge/MediaPipe-121210?style=flat-square" alt="MediaPipe" /> <img src="https://img.shields.io/badge/RTMPose-121210?style=flat-square" alt="RTMPose" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Python-121210?style=flat-square&logo=python&logoColor=d9f45a" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-121210?style=flat-square&logo=nodedotjs&logoColor=d9f45a" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-121210?style=flat-square&logo=typescript&logoColor=d9f45a" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-121210?style=flat-square&logo=openjdk&logoColor=d9f45a" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-121210?style=flat-square&logo=springboot&logoColor=d9f45a" alt="Spring Boot" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-121210?style=flat-square&logo=react&logoColor=d9f45a" alt="React" /> <img src="https://img.shields.io/badge/HTML-121210?style=flat-square&logo=html5&logoColor=d9f45a" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-121210?style=flat-square&logo=css&logoColor=d9f45a" alt="CSS" /> |
-| **Ferramentas** | <img src="https://img.shields.io/badge/Git-121210?style=flat-square&logo=git&logoColor=d9f45a" alt="Git" /> <img src="https://img.shields.io/badge/GitHub%20Actions-121210?style=flat-square&logo=githubactions&logoColor=d9f45a" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-121210?style=flat-square&logo=vercel&logoColor=d9f45a" alt="Vercel" /> <img src="https://img.shields.io/badge/Linux-121210?style=flat-square&logo=linux&logoColor=d9f45a" alt="Linux" /> |
 
 ## Atividade
 
