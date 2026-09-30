@@ -6,12 +6,10 @@
 
 Engenheiro de software em Blumenau (SC). Trabalho de forma autônoma com agentes de IA, pipelines e automação: tiro das equipes as horas de trabalho repetitivo.
 
-Antes, fui editor de vídeo por quatro anos. Foi daí que veio o meu primeiro projeto grande, um estúdio de vídeo que edita sozinho.
-
 | | |
 |---|---|
 | **Hoje** | Agentes de IA, pipelines e automação, como autônomo |
-| **Formação** | Análise e Desenvolvimento de Sistemas, 2025–2027 |
+| **Formação** | Engenharia de Software, na Gran (em andamento) |
 | **Base** | Blumenau, Santa Catarina, Brasil |
 
 ## Artigos
